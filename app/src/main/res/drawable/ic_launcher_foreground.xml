@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- yellow burst -->
+    <path android:fillColor="#FFFFE135" android:strokeColor="#FF1A1033" android:strokeWidth="2.5"
+        android:pathData="M54,26 L60,40 L75,35 L69,49 L83,55 L69,61 L75,75 L60,70 L54,84 L48,70 L33,75 L39,61 L25,55 L39,49 L33,35 L48,40 Z" />
+    <!-- music note -->
+    <path android:fillColor="#FF1A1033"
+        android:pathData="M58,38 L58,62.5 A6.5,6.5 0 1 1 54,56.6 L54,42 L50,42 L50,38 Z" />
+    <path android:fillColor="#FF1A1033"
+        android:pathData="M58,38 C62,40 66,42 66,48 C64,45 61,44 58,44 Z" />
+</vector>
